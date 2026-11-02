@@ -39,9 +39,7 @@ android {
   }
 }
 
-kotlin {
-  jvmToolchain(17)
-}
+// Kotlin toolchain is set via gradle.properties org.gradle.java.home
 
 dependencies {
   val composeBom = platform(libs.androidx.compose.bom)
