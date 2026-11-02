@@ -9,3 +9,8 @@
 .cxx
 local.properties
 phone_screen.png
+
+# Sub-projects (independent repositories)
+Android_lab_class/
+Android_project/
+Flutter_lab_class/
